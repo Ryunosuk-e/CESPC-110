@@ -17,6 +17,26 @@
 
 
 
-numbers = [1, 2, 3]
-for animal in numbers:
-    print(animal)
+# # numbers = [1, 2, 3]
+# # for animal in numbers:
+# #     print(animal)
+
+
+
+
+
+
+# # friends = []
+
+# # user_input = ""
+
+# # while user_input != "end":
+
+# #     user_input = input("Type the name of a friend: ")
+
+
+x = 5
+
+x + 1
+
+print(x)
